@@ -9,7 +9,7 @@ Hey team! We're gonna do a quick Git workout to show off our skills before Hackh
 1. **Clone the Repo:**
 
    ```bash
-   git clone https://github.com/bremsstrahlung-57/git-basics-check
+   git clone https://github.com/bremsstrahlung-57/git-basics-check.git
    ```
 
 2. **Navigate into the Repo:**
