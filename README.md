@@ -6,7 +6,7 @@ Hey team! We're gonna do a quick Git workout to show off our skills before Hackh
 
 ---
 
-## Step 2: Fork the Repository
+## Step 1: Fork the Repository
 
 1. **Fork on GitHub:**
    - Go to the main repo at:  
