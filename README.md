@@ -25,7 +25,8 @@ Hey team! We're gonna do a quick Git workout to show off our skills before Hackh
    ```bash
    git pull origin main
    ```
-(Skip from here)
+(Skip from here and go to Step 3)
+
 2. **Open the names.txt file** in the main branch.
 
 3. **Add your name** on a new line (e.g., "Alex").
